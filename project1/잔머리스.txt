@@ -1,0 +1,23 @@
+aaaaaaaaaa
+aaaaaaaaaa
+aaa  aa   
+aa B  a   
+aa     B  
+aa     B  
+aa B      
+aaa a     
+aaaaaaaaaa
+aaaaaaaaaa
+
+"C:\\Users\\kippumchang\\Desktop\\computer science1\\Project1\\project1\\sample.txt"
+
+       B a
+         a
+         a
+a        a
+a        a
+          
+          
+          
+     a    
+     a    
